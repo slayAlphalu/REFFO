@@ -1,7 +1,7 @@
 # REFFO
 一个三流程序员路任葭慢慢成长的学习笔记
 
-### 2019.4.7 [pdf](https://github.com/slayAlphalu/-REFFO/blob/master/手推常用公式20190407.pdf)
+### 2019.4.7 [手推LR,SVM,XGBOOST 公式](https://github.com/slayAlphalu/-REFFO/blob/master/手推常用公式20190407.pdf)
 p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 
 1)手推公式部分：从LR->SVM，从GBDT->XGBOOST 
