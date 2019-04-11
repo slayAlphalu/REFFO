@@ -15,3 +15,8 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 ### 2019.4.9 [各类机器学习算法特点优缺点总结](https://github.com/slayAlphalu/-REFFO/blob/master/NB-TREE.pdf)
 
 包含Naive Bayes, Decision Tree, Random Forest,Boosting,Gbdt,Xgboost
+
+### 2019.4.10 
+[LSA]
+[NMF]()
+[LDA](https://github.com/slayAlphalu/-REFFO/blob/master/LDA.ipynb)
