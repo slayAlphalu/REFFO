@@ -19,7 +19,7 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 
 包含Naive Bayes, Decision Tree, Random Forest,Boosting,Gbdt,Xgboost
 
-### 2019.4.10 
+### 2019.4.10 NLP 泛解
 [LSA](https://github.com/slayAlphalu/-REFFO/blob/master/LSA.ipynb)
-[NMF]()
+[NMF](https://github.com/slayAlphalu/-REFFO/blob/master/NMF.ipynb)
 [LDA](https://github.com/slayAlphalu/-REFFO/blob/master/LDA.ipynb)
