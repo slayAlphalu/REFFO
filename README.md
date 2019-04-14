@@ -23,3 +23,7 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 [LSA](https://github.com/slayAlphalu/-REFFO/blob/master/LSA.ipynb)
 [NMF](https://github.com/slayAlphalu/-REFFO/blob/master/NMF.ipynb)
 [LDA](https://github.com/slayAlphalu/-REFFO/blob/master/LDA.ipynb)
+
+### 2019.4.13 GMM 推导
+
+[GMM](https://github.com/slayAlphalu/-REFFO/blob/master/GMM.pdf)
