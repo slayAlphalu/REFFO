@@ -27,3 +27,6 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 ### 2019.4.13 GMM 推导
 
 [GMM](https://github.com/slayAlphalu/-REFFO/blob/master/GMM.pdf)
+
+### 2019.4.15 skip gram &
+[skipgram](https://github.com/slayAlphalu/-REFFO/blob/master/word2vector.ipynb)
