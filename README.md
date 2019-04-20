@@ -34,4 +34,3 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 
 ### 2019.4.20 PCA数学推导+LDA复习+NMF介绍
 [PCA数学推导+LDA复习+NMF介绍](https://github.com/slayAlphalu/-REFFO/blob/master/PCA%2BLDA%2BNMF.pdf)
-[word2vector](https://github.com/slayAlphalu/-REFFO/blob/master/word2vector.ipynb)
