@@ -37,3 +37,10 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 
 ### 2019.4.27 BCNF 3NF decomposition examples
 [BCNF&3NF](https://github.com/slayAlphalu/-REFFO/blob/master/BCNF%263NF.pdf)
+[BCNF&3NF](https://github.com/slayAlphalu/-REFFO/blob/master/BCNF%263NF.pdf)#
+[BCNF&3NF](https://github.com/slayAlphalu/-REFFO/blob/master/BCNF%263NF.pdf)
+
+## 2019.5.4
+这两周一直在忙着final没时间整理哈哈
+
+p.s. 面完阿里HR之后一直在等消息，说是五一后出结果，一直忐忑不安。希望今天有offer！
