@@ -40,14 +40,14 @@ p.s. 好像在线预览显示不全，字丑自娱自乐使用本repo😁
 [BCNF&3NF](https://github.com/slayAlphalu/-REFFO/blob/master/BCNF%263NF.pdf)#
 [BCNF&3NF](https://github.com/slayAlphalu/-REFFO/blob/master/BCNF%263NF.pdf)
 
-## 2019.5.4
+### 2019.5.4
 这两周一直在忙着final没时间整理哈哈
 
 p.s. 面完阿里HR之后一直在等消息，说是五一后出结果，一直忐忑不安。希望今天有offer！
 
-## 2019.5.5
+### 2019.5.5
 仍然忐忑中 坐立不安等结果
 
-## 2019.5.7
-**收到阿里菜鸟offer**
+### 2019.5.7
+**收到阿里菜鸟offer，撒花撒花，长达2个多月的战线终于走完了😊，感恩男朋友一直以来不离不弃，盆友们扶持**
 
